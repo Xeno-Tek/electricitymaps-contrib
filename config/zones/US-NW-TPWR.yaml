@@ -130,25 +130,25 @@ emissionFactors:
         value: 24.000000000000004
       - datetime: '2017-01-01'
         source: Electricity Maps, 2017 average
-        value: 24.0
+        value: 24.000000000000004
       - datetime: '2018-01-01'
         source: Electricity Maps, 2018 average
-        value: 85.18
+        value: 85.18178147013533
       - datetime: '2019-01-01'
         source: Electricity Maps, 2019 average
-        value: 104.68
+        value: 104.6832783898639
       - datetime: '2020-01-01'
         source: Electricity Maps, 2020 average
-        value: 55.63
+        value: 55.63483890608569
       - datetime: '2021-01-01'
         source: Electricity Maps, 2021 average
-        value: 65.13
+        value: 65.12914061965704
       - datetime: '2022-01-01'
         source: Electricity Maps, 2022 average
-        value: 64.21
+        value: 64.21039971020251
       - datetime: '2023-01-01'
         source: Electricity Maps, 2023 average
-        value: 95.71
+        value: 95.71316508349986
     biomass:
       - datetime: '2020-01-01'
         source: eGrid 2020
@@ -174,25 +174,25 @@ emissionFactors:
         value: 24.000000000000004
       - datetime: '2017-01-01'
         source: Electricity Maps, 2017 average
-        value: 24.0
+        value: 24.000000000000004
       - datetime: '2018-01-01'
         source: Electricity Maps, 2018 average
-        value: 85.18
+        value: 85.18178147013533
       - datetime: '2019-01-01'
         source: Electricity Maps, 2019 average
-        value: 104.68
+        value: 104.6832783898639
       - datetime: '2020-01-01'
         source: Electricity Maps, 2020 average
-        value: 55.63
+        value: 55.63483890608569
       - datetime: '2021-01-01'
         source: Electricity Maps, 2021 average
-        value: 65.13
+        value: 65.12914061965704
       - datetime: '2022-01-01'
         source: Electricity Maps, 2022 average
-        value: 64.21
+        value: 64.21039971020251
       - datetime: '2023-01-01'
         source: Electricity Maps, 2023 average
-        value: 95.71
+        value: 95.71316508349986
     oil:
       datetime: '2014-01-01'
       source: IPCC 2014; EIA 2020/BEIS 2021

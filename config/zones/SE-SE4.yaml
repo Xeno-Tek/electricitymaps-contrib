@@ -110,25 +110,25 @@ emissionFactors:
         value: 61.501809138964035
       - datetime: '2017-01-01'
         source: Electricity Maps, 2017 average
-        value: 46.97
+        value: 46.9738803028632
       - datetime: '2018-01-01'
         source: Electricity Maps, 2018 average
-        value: 65.02
+        value: 65.02161304196707
       - datetime: '2019-01-01'
         source: Electricity Maps, 2019 average
-        value: 79.57
+        value: 79.57312590957217
       - datetime: '2020-01-01'
         source: Electricity Maps, 2020 average
-        value: 40.56
+        value: 40.55802189654889
       - datetime: '2021-01-01'
         source: Electricity Maps, 2021 average
-        value: 59.67
+        value: 59.66985158843888
       - datetime: '2022-01-01'
         source: Electricity Maps, 2022 average
-        value: 40.45
+        value: 40.45039247352733
       - datetime: '2023-01-01'
         source: Electricity Maps, 2023 average
-        value: 41.4
+        value: 41.403015441495256
     biomass:
       datetime: '2014-01-01'
       source: BEIS 2021; IPCC 2014
@@ -165,25 +165,25 @@ emissionFactors:
         value: 61.501809138964035
       - datetime: '2017-01-01'
         source: Electricity Maps, 2017 average
-        value: 46.97
+        value: 46.9738803028632
       - datetime: '2018-01-01'
         source: Electricity Maps, 2018 average
-        value: 65.02
+        value: 65.02161304196707
       - datetime: '2019-01-01'
         source: Electricity Maps, 2019 average
-        value: 79.57
+        value: 79.57312590957217
       - datetime: '2020-01-01'
         source: Electricity Maps, 2020 average
-        value: 40.56
+        value: 40.55802189654889
       - datetime: '2021-01-01'
         source: Electricity Maps, 2021 average
-        value: 59.67
+        value: 59.66985158843888
       - datetime: '2022-01-01'
         source: Electricity Maps, 2022 average
-        value: 40.45
+        value: 40.45039247352733
       - datetime: '2023-01-01'
         source: Electricity Maps, 2023 average
-        value: 41.4
+        value: 41.403015441495256
     nuclear:
       datetime: '2020-01-01'
       source: UNECE 2022

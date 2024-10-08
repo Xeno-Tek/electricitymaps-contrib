@@ -1,3 +1,5 @@
+timezone: Europe/Isle_of_Man
+region: Europe
 contributors:
   - VIKTORVAV99
   - AJDelusion
@@ -10,5 +12,3 @@ fallbackZoneMixes:
         gas: 0.988
         hydro: 0.007
         oil: 0.005
-region: Europe
-timezone: Europe/Isle_of_Man
